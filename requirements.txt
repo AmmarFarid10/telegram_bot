@@ -1,7 +1,6 @@
 pip>=21.3.1
 setuptools>=58.0.4
 wheel>=0.37.0
-backports.zoneinfo
 telethon
 python-dotenv
 # Add other dependencies here
